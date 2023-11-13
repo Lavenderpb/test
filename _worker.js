@@ -1,5 +1,5 @@
 
-const TELEGRAPH_URL = 'https://chat.openai.com/';
+const TELEGRAPH_URL = 'https://open.openai.com/';
 
 
 export default {
